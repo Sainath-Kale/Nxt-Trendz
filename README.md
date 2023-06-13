@@ -1,3 +1,5 @@
+# LIVE DEMO :-  <a href="https://sainathtrendz.ccbp.tech">Nxt Trendz Application</a>
+
 ### An Ecommerce Application 
 
 <h1>Login Details for Prime User</h1>
